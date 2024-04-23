@@ -1,8 +1,6 @@
-# Système d'authentification en Symfony
+# Symfony user
 
 
-### Utilisation : 
-
-Symfony, php, twig
+### Simple projet d'authentification en symfony
 
 [Installer mailhog](https://github.com/mailhog/MailHog/releases/v1.0.0)
